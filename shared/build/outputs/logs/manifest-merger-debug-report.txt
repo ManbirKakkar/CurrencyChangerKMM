@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml:2:13-83
+INJECTED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml:2:13-83
+INJECTED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml:2:13-83
+	package
+		INJECTED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml
+		ADDED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml:2:13-83
+		INJECTED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml
+	xmlns:android
+		ADDED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml:2:23-81
+uses-sdk
+INJECTED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml reason: use-sdk injection requested
+INJECTED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml
+INJECTED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml
+INJECTED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml
+INJECTED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml
+	android:targetSdkVersion
+		INJECTED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml
+		ADDED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml
+		INJECTED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml
+	android:minSdkVersion
+		INJECTED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml
+		ADDED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml
+		INJECTED from /Users/manbirkakkar/Downloads/CurrencyExchange/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11383514315521394799.xml

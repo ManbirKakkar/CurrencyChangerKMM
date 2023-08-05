@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.dgeek.currencyexchange.android.androidApp-mergeDebugResources-47:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/manbirkakkar/.gradle/caches/transforms-3/a526f266f3af92df576dbe7fb705d363/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
